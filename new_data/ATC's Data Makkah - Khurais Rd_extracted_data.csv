@@ -1,0 +1,397 @@
+,Road Name,Direction,Station No,Day,Date,Houlry Volume,Peak Hour
+0,Makkah/Khurais Road - East of Umm Al Hamam Street,Eastbound - Main Carriageway,ATC SN 016 (TDCS 20),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        3257       2127       1386      1191.0      1366.0      3767.0   
+44       3769       2639       2065      1571.0      1830.0      3729.0   
+79       5493       5172       3849      3100.0      2706.0      2445.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        6801      6376.0       8799        8407  ...        5324      4866.0   
+44       6684      6400.0       6910        8297  ...        5082      4734.0   
+79       2764      2455.0       2361        2498  ...        5431      6958.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       4748.0      4548.0       5013.0      6625.0       5815.0         5149   
+44      4968.0      4313.0       5437.0      6110.0       6086.0         6168   
+79      6271.0      6522.0       5908.0      5973.0       5408.0         4930   
+
+    Unnamed: 24  Unnamed: 25  
+9        4269.0       123338  
+44       5533.0       125271  
+79       5129.0       103359  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   09:15:00     A.M. Peakhour      8865.0
+17   13:15:00  Mid-Day Peakhour      6718.0
+18   21:00:00     P.M. Peakhour      6625.0
+51   10:15:00     A.M. Peakhour      8597.0
+52   13:30:00  Mid-Day Peakhour      7195.0
+53   20:30:00     P.M. Peakhour      6371.0
+86   04:15:00     A.M. Peakhour      3055.0
+87   16:00:00  Mid-Day Peakhour      5431.0
+88   17:00:00     P.M. Peakhour      6958.0"
+1,Makkah/Khurais Road - East of Umm Al Hamam Street,Eastbound - Service Road,ATC SN 016 (TDCS 20),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         265        120         85        78.0       137.0       267.0   
+44        222        146        113        75.0        96.0       230.0   
+79        454        353        297       229.0       228.0       213.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9         554       647.0        625         765  ...         660       739.0   
+44        532       544.0        548         737  ...         725       807.0   
+79        231       278.0        344         387  ...         686       782.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9        829.0       922.0       1006.0       859.0        884.0          682   
+44       769.0      1133.0        968.0      1077.0        808.0          812   
+79       720.0       819.0        667.0       792.0        693.0          701   
+
+    Unnamed: 24  Unnamed: 25  
+9         624.0        14560  
+44        718.0        15000  
+79        587.0        12163  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   10:45:00     A.M. Peakhour       899.0
+17   14:00:00  Mid-Day Peakhour       812.0
+18   19:30:00     P.M. Peakhour      1128.0
+51   12:00:00     A.M. Peakhour       804.0
+52   13:45:00  Mid-Day Peakhour       894.0
+53   19:15:00     P.M. Peakhour      1254.0
+86   09:45:00     A.M. Peakhour       406.0
+87   13:45:00  Mid-Day Peakhour       798.0
+88   19:00:00     P.M. Peakhour       819.0"
+2,Makkah/Khurais Road - East of Takhassosi Road,Eastbound - Main Carriageway,ATC SN 018 (TDCS 21),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        4148       2804       1952      2528.0      2400.0      3960.0   
+44       4505       3012       2061      1682.0      1966.0      4448.0   
+79       5603       4919       3977      3176.0      2646.0      2408.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        8056      7673.0       7614        8796  ...        5929      5551.0   
+44       7787      7957.0       7925        8168  ...        5293      5469.0   
+79       2704      2531.0       2491        2697  ...        5858      7351.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       5241.0      5494.0       7378.0      7294.0       6498.0         5669   
+44      5624.0      5803.0       6204.0      6959.0       6291.0         6734   
+79      6630.0      7109.0       6367.0      6496.0       5878.0         5446   
+
+    Unnamed: 24  Unnamed: 25  
+9        5226.0       138162  
+44       5986.0       138897  
+79       5459.0       109628  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   10:15:00     A.M. Peakhour      8933.0
+17   13:30:00  Mid-Day Peakhour      6884.0
+18   20:45:00     P.M. Peakhour      7391.0
+51   07:30:00     A.M. Peakhour      8300.0
+52   13:15:00  Mid-Day Peakhour      7499.0
+53   21:00:00     P.M. Peakhour      6959.0
+86   04:15:00     A.M. Peakhour      3068.0
+87   16:00:00  Mid-Day Peakhour      5858.0
+88   17:00:00     P.M. Peakhour      7351.0"
+3,Makkah/Khurais Road - East of Takhassosi Road,Eastbound - Service Road,ATC SN 018 (TDCS 21),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         318        216        148       181.0       159.0       311.0   
+44        350        177        232       238.0       148.0       306.0   
+79       1034        835        668       376.0       284.0       283.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        1501      1997.0       1703        1967  ...        1078       980.0   
+44       1270      1775.0       1926         978  ...        1296      1119.0   
+79        398       386.0        434         495  ...        1027      1323.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       1511.0       733.0       1035.0      1012.0        886.0          843   
+44      1167.0      1045.0       1401.0      1341.0       1577.0         1170   
+79      1293.0      1221.0        999.0      1213.0        998.0          950   
+
+    Unnamed: 24  Unnamed: 25  
+9         747.0        23454  
+44       1040.0        24027  
+79        822.0        18787  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   10:30:00     A.M. Peakhour      2449.0
+17   13:30:00  Mid-Day Peakhour      1117.0
+18   18:00:00     P.M. Peakhour      1511.0
+51   08:30:00     A.M. Peakhour      2119.0
+52   13:00:00  Mid-Day Peakhour      1358.0
+53   21:45:00     P.M. Peakhour      1584.0
+86   09:45:00     A.M. Peakhour       529.0
+87   13:30:00  Mid-Day Peakhour      1202.0
+88   17:45:00     P.M. Peakhour      1364.0"
+4,Makkah/Khurais Road - East of Prince Abdulaziz Ibn Musaid Ibn Jalawi Street,Eastbound - Main Carriageway,ATC SN 019 (TDCS 22),"['Wednesday', 'Thursday', 'Friday']","5     2023-11-01 00:00:00
+40    2023-11-02 00:00:00
+75    2023-11-03 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        4274       3029       2490      2212.0      2481.0      4052.0   
+44       4266       3157       2825      2235.0      2319.0      4121.0   
+79       5647       5017       3934      3626.0      2980.0      2690.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        5459      6110.0       6910        5474  ...        6941      6819.0   
+44       4817      5281.0       6606        5418  ...        7259      6369.0   
+79       2850      2679.0       2613        2725  ...        4528      5205.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       5893.0      7097.0       6961.0      6556.0       6520.0         5172   
+44      7791.0      5273.0       6884.0      7174.0       6977.0         6952   
+79      6199.0      6309.0       7462.0      7525.0       5455.0         4965   
+
+    Unnamed: 24  Unnamed: 25  
+9        4976.0       133840  
+44       6333.0       134047  
+79       5921.0       105756  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   11:45:00     A.M. Peakhour      6977.0
+17   15:00:00  Mid-Day Peakhour      7352.0
+18   19:30:00     P.M. Peakhour      7295.0
+51   08:45:00     A.M. Peakhour      6672.0
+52   16:00:00  Mid-Day Peakhour      7259.0
+53   17:45:00     P.M. Peakhour      7846.0
+86   04:15:00     A.M. Peakhour      3523.0
+87   15:00:00  Mid-Day Peakhour      4690.0
+88   21:00:00     P.M. Peakhour      7525.0"
+5,Makkah/Khurais Road - East of Prince Abdulaziz Ibn Musaid Ibn Jalawi Street,Eastbound - Service Road,ATC SN 019 (TDCS 22),"['Wednesday', 'Thursday', 'Friday']","5     2023-11-01 00:00:00
+40    2023-11-02 00:00:00
+75    2023-11-03 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         352        239        111       121.0        93.0       135.0   
+44        394        258        365       151.0        87.0       156.0   
+79        525        375        289       206.0       251.0       264.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9         402      1137.0       1179         875  ...        1552      1993.0   
+44        486       887.0       1178        1356  ...        1779      2209.0   
+79        323       351.0        388         452  ...         822       982.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       2136.0      1385.0       1929.0      2053.0        937.0          652   
+44      1170.0      2080.0       1592.0      1611.0        900.0          789   
+79       991.0      1092.0       1774.0      1826.0       1139.0          793   
+
+    Unnamed: 24  Unnamed: 25  
+9         547.0        25244  
+44        733.0        25712  
+79        765.0        17287  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   12:00:00     A.M. Peakhour      1766.0
+17   13:00:00  Mid-Day Peakhour      1650.0
+18   17:45:00     P.M. Peakhour      2274.0
+51   12:00:00     A.M. Peakhour      2205.0
+52   13:00:00  Mid-Day Peakhour      1859.0
+53   17:00:00     P.M. Peakhour      2209.0
+86   12:00:00     A.M. Peakhour       587.0
+87   15:00:00  Mid-Day Peakhour       898.0
+88   21:15:00     P.M. Peakhour      1881.0"
+6,Makkah/Khurais Road - West of Eastern Ring Road,Eastbound - Main Carriageway,ATC SN 021 (TDCS 23),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        5446       3464       2369      1547.0      1671.0      3220.0   
+44       5644       3768       2627      1876.0      2025.0      3142.0   
+79       6187       6006       4808      4102.0      3059.0      2507.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        5764      6354.0       5679        5985  ...        5877      6010.0   
+44       5168      5361.0       5459        5592  ...        6978      5562.0   
+79       2536      2371.0       2483        2630  ...        5572      5913.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       6149.0      6397.0       6484.0      6709.0       6241.0         6344   
+44      5746.0      7083.0       6670.0      6414.0       5589.0         6606   
+79      5687.0      6040.0       5898.0      6024.0       5984.0         6123   
+
+    Unnamed: 24  Unnamed: 25  
+9        6095.0       130408  
+44       6654.0       130936  
+79       6126.0       109452  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   12:00:00     A.M. Peakhour      7116.0
+17   13:00:00  Mid-Day Peakhour      6790.0
+18   21:00:00     P.M. Peakhour      6709.0
+51   11:45:00     A.M. Peakhour      7181.0
+52   15:30:00  Mid-Day Peakhour      7228.0
+53   19:15:00     P.M. Peakhour      7189.0
+86   04:15:00     A.M. Peakhour      3773.0
+87   16:00:00  Mid-Day Peakhour      5572.0
+88   20:45:00     P.M. Peakhour      6123.0"
+7,Makkah/Khurais Road - West of Eastern Ring Road,Eastbound - Service Road,ATC SN 021 (TDCS 23),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         625        288        292       153.0       194.0       530.0   
+44        576        272        177        74.0       101.0       250.0   
+79       1174        679        519       313.0       228.0       216.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9         930       807.0        852         857  ...        2474      2280.0   
+44        704       977.0        871        1002  ...        1521      2153.0   
+79        245       237.0        275         313  ...        1080      1462.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       1845.0      1160.0       1434.0      1587.0       1243.0          863   
+44      2343.0      1165.0       1247.0      1138.0       1620.0         1359   
+79      1488.0      1549.0       1500.0      1371.0       1337.0         1126   
+
+    Unnamed: 24  Unnamed: 25  
+9         705.0        25507  
+44        813.0        26175  
+79       1057.0        19023  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   12:00:00     A.M. Peakhour      1776.0
+17   16:00:00  Mid-Day Peakhour      2474.0
+18   17:00:00     P.M. Peakhour      2280.0
+51   08:30:00     A.M. Peakhour      1089.0
+52   14:00:00  Mid-Day Peakhour      2460.0
+53   17:30:00     P.M. Peakhour      2452.0
+86   10:45:00     A.M. Peakhour       343.0
+87   16:00:00  Mid-Day Peakhour      1080.0
+88   19:45:00     P.M. Peakhour      1614.0"
+8,Makkah/Khurais Road - East of Eastern Ring Road,Eastbound - Main Carriageway,ATC SN 023 (TDCS 24),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        3645       2211       1428       955.0       992.0      1568.0   
+44       3911       2405       1924      1675.0      1256.0      1860.0   
+79       5300       4406       3302      2392.0      1758.0      1534.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        3450      4168.0       4410        4655  ...        7202      6875.0   
+44       3680      4143.0       4584        4671  ...        5452      5795.0   
+79       1624      1673.0       1859        2000  ...        5381      6018.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       6019.0      6730.0       6754.0      6215.0       5825.0         5267   
+44      6552.0      5882.0       5598.0      5483.0       5452.0         6050   
+79      5502.0      5814.0       5750.0      5340.0       5570.0         5355   
+
+    Unnamed: 24  Unnamed: 25  
+9        5120.0       111477  
+44       5593.0       112794  
+79       5345.0        92610  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   12:00:00     A.M. Peakhour      5524.0
+17   15:45:00  Mid-Day Peakhour      7285.0
+18   19:30:00     P.M. Peakhour      7156.0
+51   12:00:00     A.M. Peakhour      6276.0
+52   15:00:00  Mid-Day Peakhour      6742.0
+53   17:45:00     P.M. Peakhour      6659.0
+86   11:45:00     A.M. Peakhour      2228.0
+87   16:00:00  Mid-Day Peakhour      5381.0
+88   17:15:00     P.M. Peakhour      6057.0"
+9,Makkah/Khurais Road - East of Eastern Ring Road,Eastbound - Service Road,ATC SN 023 (TDCS 24),"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        2203       1344        866       656.0       642.0      1168.0   
+44       2215       1405       1265       796.0       629.0      1090.0   
+79       2590       2425       1895      1499.0      1091.0       883.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        2582      2558.0       2507        2786  ...        3375      3380.0   
+44       2364      2678.0       2384        2758  ...        3233      3875.0   
+79        930       812.0        789         843  ...        2368      2882.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       3393.0      3340.0       3228.0      2819.0       2771.0         2831   
+44      3591.0      3685.0       3348.0      3094.0       2512.0         2740   
+79      3184.0      3105.0       3023.0      3005.0       2677.0         2579   
+
+    Unnamed: 24  Unnamed: 25  
+9        2685.0        62695  
+44       2592.0        62946  
+79       2514.0        46850  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   11:45:00     A.M. Peakhour      3450.0
+17   15:00:00  Mid-Day Peakhour      3745.0
+18   17:45:00     P.M. Peakhour      3460.0
+51   11:30:00     A.M. Peakhour      3276.0
+52   13:15:00  Mid-Day Peakhour      3596.0
+53   17:00:00     P.M. Peakhour      3875.0
+86   04:15:00     A.M. Peakhour      1373.0
+87   15:15:00  Mid-Day Peakhour      2388.0
+88   19:15:00     P.M. Peakhour      3237.0"
+10,Makkah Road - East of Abu Hurarira Street,Eastbound - Main Carriageway,ATC SN 026,"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        2633       1372        711       873.0       732.0      2049.0   
+44       2851       1709       1187       892.0       942.0      2196.0   
+79       4886       3248       2123      1623.0      1152.0      1091.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        4637      5368.0       5039        4243  ...        5125      4995.0   
+44       4578      5193.0       4357        3771  ...        5087      5398.0   
+79       1493      1365.0       1424        1461  ...        4774      5837.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       5082.0      4962.0       4943.0      4881.0       4863.0         4779   
+44      4699.0      4870.0       4926.0      5055.0       5016.0         5006   
+79      5823.0      5689.0       5821.0      5257.0       5131.0         4417   
+
+    Unnamed: 24  Unnamed: 25  
+9        4188.0        94703  
+44       5134.0        96093  
+79       4755.0        79912  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   08:15:00     A.M. Peakhour      5487.0
+17   16:00:00  Mid-Day Peakhour      5125.0
+18   18:00:00     P.M. Peakhour      5082.0
+51   07:30:00     A.M. Peakhour      5314.0
+52   15:45:00  Mid-Day Peakhour      5108.0
+53   17:15:00     P.M. Peakhour      5485.0
+86   10:45:00     A.M. Peakhour      1560.0
+87   16:00:00  Mid-Day Peakhour      4774.0
+88   17:30:00     P.M. Peakhour      5845.0"
+11,Makkah Road - East of Abu Hurarira Street,Eastbound - Service Road,ATC SN 026,"['Wednesday', 'Thursday', 'Friday']","5     2023-10-25 00:00:00
+40    2023-10-26 00:00:00
+75    2023-10-27 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        2048       1606       1701      1749.0      1683.0      1795.0   
+44       2136       1529       1348      1166.0      1158.0      1447.0   
+79       2874       1849       1271      1171.0       995.0       951.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        3393      3591.0       3324        2612  ...        3390      3636.0   
+44       2754      3253.0       2719        2430  ...        3325      3651.0   
+79       1113      1109.0       1150        1292  ...        2536      3510.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20 Unnamed: 21  Unnamed: 22  Unnamed: 23  \
+9       3684.0      3323.0       3282.0      3278.0       3229.0         3208   
+44      4916.0      4850.0       3546.0      3440.0       3415.0         3282   
+79      3534.0      3458.0       4107.0      4965.0       3406.0         3057   
+
+    Unnamed: 24  Unnamed: 25  
+9        2956.0        68389  
+44       3302.0        69096  
+79       3267.0        53404  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   07:30:00     A.M. Peakhour      3693.0
+17   16:00:00  Mid-Day Peakhour      3390.0
+18   17:45:00     P.M. Peakhour      3725.0
+51   07:30:00     A.M. Peakhour      3289.0
+52   15:00:00  Mid-Day Peakhour      3414.0
+53   18:45:00     P.M. Peakhour      4999.0
+86   10:15:00     A.M. Peakhour      1310.0
+87   16:00:00  Mid-Day Peakhour      2536.0
+88   20:45:00     P.M. Peakhour      5013.0"

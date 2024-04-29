@@ -1,0 +1,199 @@
+,Road Name,Direction,Station No,Day,Date,Houlry Volume,Peak Hour
+0,Eastern Ring Road - South of Northern Ring Road,Northbound - Main Carriageway,ATC SN 030 (TDCS 09),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        4886       3692       2934      2602.0      2826.0      4512.0   
+44       4936       3776       3220      3028.0      3154.0      4586.0   
+79       5428       4443       3621      3478.0      3327.0      3775.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        6588      7616.0       6930        6550  ...      7068.0      7046.0   
+44       6479      7308.0       6768        6874  ...      6840.0      6750.0   
+79       3687      3641.0       3615        3213  ...      6795.0      7068.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       6830.0      7062.0         7232       7274.0       7264.0   
+44      6752.0      6718.0         6956       7162.0       6951.0   
+79      7457.0      7240.0         7313       7478.0       7393.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9        6630.0       5644.0      145246  
+44       6982.0       6704.0      145834  
+79       7415.0       7267.0      125106  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   07:30:00     A.M. Peakhour      7860.0
+17   13:15:00  Mid-Day Peakhour      7094.0
+18   21:15:00     P.M. Peakhour      7384.0
+51   07:30:00     A.M. Peakhour      7480.0
+52   14:30:00  Mid-Day Peakhour      7014.0
+53   21:15:00     P.M. Peakhour      7274.0
+86   06:15:00     A.M. Peakhour      3904.0
+87   16:00:00  Mid-Day Peakhour      6795.0
+88   21:15:00     P.M. Peakhour      7548.0"
+1,Eastern Ring Road - South of Northern Ring Road,Northbound - Service Road,ATC SN 030 (TDCS 09),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         342        229        194       125.0        74.0       171.0   
+44        347        210        211       158.0       210.0       305.0   
+79        447        279        238       207.0       180.0       162.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9         614       824.0       1179        1710  ...      1171.0      1182.0   
+44        555       831.0       1332        1781  ...      1229.0      1337.0   
+79        194       197.0        181         224  ...       546.0       696.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       1266.0      1018.0          863        840.0        767.0   
+44      1219.0       895.0          722        713.0        689.0   
+79       825.0       872.0          600        622.0        709.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9         696.0        689.0       20054  
+44        703.0        675.0       20144  
+79        752.0        820.0       10677  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   10:00:00     A.M. Peakhour      1710.0
+17   15:15:00  Mid-Day Peakhour      1284.0
+18   18:00:00     P.M. Peakhour      1266.0
+51   10:00:00     A.M. Peakhour      1781.0
+52   15:30:00  Mid-Day Peakhour      1267.0
+53   17:30:00     P.M. Peakhour      1373.0
+86   12:00:00     A.M. Peakhour       279.0
+87   16:00:00  Mid-Day Peakhour       546.0
+88   18:30:00     P.M. Peakhour       971.0"
+2,Eastern Ring Road - South of King Abdullah Road,Northbound - Main Carriageway,ATC SN 032 (TDCS 08),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        4350       3447       2353      1891.0      2813.0      5567.0   
+44       4739       3709       2120      1889.0      2544.0      5343.0   
+79       5874       4293       3508      3169.0      2902.0      2466.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        7106      6184.0       6238        6273  ...      7285.0      7091.0   
+44       7146      6629.0       6695        7747  ...      6791.0      6782.0   
+79       2257      2217.0       2111        2159  ...      7261.0      7685.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       7427.0      7639.0         6916       6747.0       6537.0   
+44      6762.0      7131.0         6721       6838.0       6304.0   
+79      6951.0      6842.0         7211       6801.0       7001.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9        6160.0       5795.0      141831  
+44       6019.0       5996.0      141808  
+79       6620.0       6112.0      120518  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   12:00:00     A.M. Peakhour      7257.0
+17   13:00:00  Mid-Day Peakhour      7310.0
+18   18:45:00     P.M. Peakhour      7769.0
+51   10:00:00     A.M. Peakhour      7747.0
+52   13:00:00  Mid-Day Peakhour      7212.0
+53   19:15:00     P.M. Peakhour      7136.0
+86   12:00:00     A.M. Peakhour      5073.0
+87   16:00:00  Mid-Day Peakhour      7261.0
+88   17:00:00     P.M. Peakhour      7685.0"
+3,Eastern Ring Road - South of King Abdullah Road,Northbound - Service Road,ATC SN 032 (TDCS 08),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        1202        872        723       675.0       666.0       929.0   
+44       1147        834        682       624.0       557.0       816.0   
+79       1771       1500        811       476.0       406.0       317.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        2823      3259.0       3214        2802  ...      3017.0      3227.0   
+44       2730      2882.0       2731        2706  ...      3345.0      3558.0   
+79        266       202.0        291         269  ...      2101.0      1957.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       3438.0      3139.0         2486       2186.0       1826.0   
+44      3632.0      3453.0         2949       2775.0       2836.0   
+79      2334.0      2062.0         2038       1963.0       2240.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9        1596.0       1346.0       55050  
+44       2344.0       1894.0       57649  
+79       1879.0       1520.0       30430  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   07:30:00     A.M. Peakhour      3542.0
+17   13:00:00  Mid-Day Peakhour      3379.0
+18   17:45:00     P.M. Peakhour      3562.0
+51   07:30:00     A.M. Peakhour      3334.0
+52   16:00:00  Mid-Day Peakhour      3345.0
+53   18:00:00     P.M. Peakhour      3632.0
+86   12:00:00     A.M. Peakhour       683.0
+87   16:00:00  Mid-Day Peakhour      2101.0
+88   18:00:00     P.M. Peakhour      2334.0"
+4,Eastern Ring Road - South of Oroubah Road,Northbound - Main Carriageway,ATC SN 331 (TDCS 07),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9        8198       3712       3451      2539.0      2392.0      3491.0   
+44       8218       5119       3540      2810.0      2414.0      3519.0   
+79       9777       9693       7614      5725.0      4376.0      3297.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9        8060      9541.0       9539        9194  ...      7475.0      7370.0   
+44       8097      9532.0       9212        9237  ...      7621.0      7513.0   
+79       3270      3054.0       2761        2545  ...      5925.0      6612.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       7158.0      8076.0         8927       8838.0       9695.0   
+44      7486.0      7408.0         7936       9414.0       9780.0   
+79      6825.0      7974.0        11219      12388.0      10330.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9        9553.0      10067.0      178734  
+44       9898.0       9906.0      181106  
+79      13106.0      12765.0      156969  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   08:30:00     A.M. Peakhour      9698.0
+17   14:30:00  Mid-Day Peakhour      8518.0
+18   22:00:00     P.M. Peakhour      9695.0
+51   08:15:00     A.M. Peakhour      9618.0
+52   13:00:00  Mid-Day Peakhour      8736.0
+53   22:00:00     P.M. Peakhour      9780.0
+86   04:15:00     A.M. Peakhour      5314.0
+87   16:00:00  Mid-Day Peakhour      5925.0
+88   21:00:00     P.M. Peakhour     12388.0"
+5,Eastern Ring Road - South of Oroubah Road,Northbound - Service Road,ATC SN 331 (TDCS 07),"['Wednesday', 'Thursday', 'Friday']","5     2023-09-13 00:00:00
+40    2023-09-14 00:00:00
+75    2023-09-15 00:00:00
+Name: Unnamed: 14, dtype: object","   Unnamed: 1 Unnamed: 2 Unnamed: 3  Unnamed: 4  Unnamed: 5  Unnamed: 6  \
+9         576        475        423       394.0       396.0       358.0   
+44        574        438        394       375.0       344.0       373.0   
+79       1516        813        467       442.0       367.0       333.0   
+
+   Unnamed: 7  Unnamed: 8 Unnamed: 9 Unnamed: 10  ... Unnamed: 16 Unnamed: 17  \
+9         558      1472.0       2150        1942  ...      1783.0      1741.0   
+44        529      1202.0       2095        1735  ...      1699.0      1540.0   
+79        340       333.0        357         533  ...       810.0      1073.0   
+
+   Unnamed: 18 Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  \
+9       1657.0      1933.0         1744       1809.0       1791.0   
+44      1619.0      1584.0         1772       1946.0       1686.0   
+79      1149.0      1065.0         1054       1112.0        976.0   
+
+    Unnamed: 23  Unnamed: 24 Unnamed: 25  
+9        1819.0       1298.0       33334  
+44       1539.0       1651.0       32037  
+79        943.0        890.0       18321  
+
+[3 rows x 25 columns]","   Unnamed: 1        Unnamed: 3  Unnamed: 6
+16   09:00:00     A.M. Peakhour      2150.0
+17   14:30:00  Mid-Day Peakhour      1841.0
+18   19:00:00     P.M. Peakhour      1933.0
+51   09:00:00     A.M. Peakhour      2095.0
+52   14:00:00  Mid-Day Peakhour      1915.0
+53   21:30:00     P.M. Peakhour      2000.0
+86   12:00:00     A.M. Peakhour       737.0
+87   14:45:00  Mid-Day Peakhour       861.0
+88   18:00:00     P.M. Peakhour      1149.0"
